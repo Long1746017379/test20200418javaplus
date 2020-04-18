@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MavenDynamic001" />
+        <module name="Test20200418" />
       </profile>
     </annotationProcessing>
   </component>
